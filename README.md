@@ -13,30 +13,32 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- 🤖 Passionate about AI, Machine Learning & GenAI
-- 💻 Building Full Stack Applications
-- 🌱 Learning System Design & Backend Development
-- 🌍 Open Source Contributor
-- 📚 Interested in AI Agents, LLMs & Scalable Systems
-- ⚡ Always learning and building
+- 🎓 B.Tech CSE (AI & ML) Student
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 💻 Building Full-Stack and AI-Powered Applications
+- 🌱 Learning System Design, Backend Engineering & DSA
+- 🌍 Active Open Source Contributor
+- 📚 Interested in GenAI, Computer Vision and Scalable Systems
+- ⚡ Always building, learning and improving
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="#">
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="#">
+<a href="https://github.com/akshith0107">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="#">
+<a href="YOUR_LEETCODE_URL">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50"/>
 </a>
+
 </p>
 
 ---
@@ -52,21 +54,21 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshith0107&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshith0107&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akshith0107&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Currently Exploring
 
-- 🤖 Generative AI
-- 🧠 Large Language Models
+- 🤖 Generative AI & LLM Applications
+- 🧠 Machine Learning & Deep Learning
 - ⚙️ Backend Architecture
 - 🌐 Open Source Development
 - 🧩 Data Structures & Algorithms
@@ -76,7 +78,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/akshith0107/akshith0107/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -84,14 +86,14 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshith0107&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
 # 💭 Developer Mindset
 
-> "Consistency beats intensity. Build, Learn, Improve, Repeat."
+> "Consistency beats intensity. Build. Learn. Improve. Repeat."
 
 ---
 
